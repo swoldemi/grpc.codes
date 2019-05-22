@@ -1,4 +1,4 @@
-# [grpc.codes](grpc.codes)
+# [grpc.codes](http://grpc.codes)
 
 Quicker reference to yet another set of status codes that I need to memorize.
 
